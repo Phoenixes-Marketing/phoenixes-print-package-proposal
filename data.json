@@ -6,7 +6,7 @@
     "lineUrl": "https://line.me/R/ti/p/@phoenixes",
     "servicePhone": "0800-805-168",
     "contactEmail": "",
-    "inquiryFormUrl": "",
+    "inquiryFormUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd2HSB413LhbQmRS4NG5YQX6wbE2W-ll8JF6fPGIEyMijM2ow/viewform?usp=header",
     "heroImageUrl": "https://www.phoenixes.com.tw/images/538684?stamp=1760162832",
     "eyebrow": "PHOENIXES × 飲料店平面印刷",
     "heroTitle": "把封膜、文宣與門店展示，一次整理成詢價方案。",
@@ -231,8 +231,8 @@
   ],
   "terms": [
     {
-      "title": "詢價與正式報價",
-      "body": "本頁內容為需求整理及參考試算。正式品項、規格、金額、交期與製作安排，均以 Phoenixes 確認後之正式報價為準。"
+      "title": "詢價、未稅價格與正式報價",
+      "body": "本頁各品項標示價格均為未稅參考價。詢價清單會依商品小計自動加計 5% 稅金及暫定運費；正式品項、規格、金額、稅額、運費、交期與製作安排，均以 Phoenixes 確認後之正式報價為準。"
     },
     {
       "title": "客戶提供檔案",
