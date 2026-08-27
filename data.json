@@ -31,6 +31,7 @@
       "imageUrl": "https://www.phoenixes.com.tw/images/670808?stamp=1777964044",
       "imageNote": "Phoenixes 官網暫用示意圖",
       "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
       "specOptions": [
         "基準規格",
         "規格選項 1",
@@ -56,6 +57,7 @@
       "imageUrl": "https://www.phoenixes.com.tw/images/625687?stamp=1772687536",
       "imageNote": "Phoenixes 官網暫用示意圖",
       "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
       "specOptions": [
         "基準規格",
         "規格選項 1",
@@ -81,6 +83,7 @@
       "imageUrl": "https://www.phoenixes.com.tw/images/538684?stamp=1760162832",
       "imageNote": "Phoenixes 官網暫用示意圖",
       "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
       "specOptions": [
         "基準規格",
         "規格選項 1",
@@ -106,6 +109,7 @@
       "imageUrl": "https://www.phoenixes.com.tw/images/538524?stamp=1760018957",
       "imageNote": "Phoenixes 官網暫用示意圖",
       "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
       "specOptions": [
         "基準規格",
         "規格選項 1",
@@ -131,6 +135,7 @@
       "imageUrl": "https://www.phoenixes.com.tw/images/554633?stamp=1762827958",
       "imageNote": "Phoenixes 官網暫用示意圖",
       "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
       "specOptions": [
         "基準規格",
         "規格選項 1",
@@ -156,6 +161,7 @@
       "imageUrl": "https://www.phoenixes.com.tw/images/522491?stamp=1757401339",
       "imageNote": "Phoenixes 官網暫用示意圖",
       "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
       "specOptions": [
         "基準規格",
         "規格選項 1",
@@ -181,6 +187,7 @@
       "imageUrl": "https://www.phoenixes.com.tw/images/538684?stamp=1760162832",
       "imageNote": "Phoenixes 官網暫用示意圖",
       "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
       "specOptions": [
         "基準規格",
         "規格選項 1",
@@ -206,6 +213,7 @@
       "imageUrl": "https://www.phoenixes.com.tw/images/538684?stamp=1760162832",
       "imageNote": "Phoenixes 官網暫用示意圖",
       "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
       "specOptions": [
         "基準規格",
         "規格選項 1",
@@ -216,8 +224,8 @@
       ],
       "quantityOptions": [
         6,
-        7,
-        8
+        12,
+        18
       ]
     }
   ],
