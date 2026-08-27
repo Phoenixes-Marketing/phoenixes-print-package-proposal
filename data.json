@@ -199,7 +199,7 @@
       "id": "film",
       "name": "客製化少量印刷封膜",
       "description": "飲料杯封膜的客製化印刷方案",
-      "baseSpec": "130 × 350M（待最終確認）",
+      "baseSpec": "130 × 500M",
       "baseQuantity": "基本量 6 捲",
       "price": 3500,
       "unit": "捲",
