@@ -12,6 +12,12 @@
     "heroTitle": "把封膜、文宣與門店展示，一次整理成詢價方案。",
     "heroBody": "先選擇需要的品項與數量，快速整理成詢價需求；正式規格、交期與報價由 Phoenixes 團隊確認。",
     "notice": "金額為參考試算：各品項對客可見售價 × 所選數量；另加 5% 稅金及暫定運費 NT$1,000。",
+    "inquiryTitle": "選好品項後，選擇適合你的詢價方式",
+    "inquiryIntro": "兩種方式都會由 Phoenixes 團隊接手確認正式規格、報價與交期。",
+    "lineMethodTitle": "快速 LINE@ 詢價",
+    "lineMethodBody": "先在上方按「複製詢價摘要」，再開啟 LINE@ 貼上內容，適合已整理好需求、希望直接對話的客戶。",
+    "formMethodTitle": "表單詢價＋檔案上傳",
+    "formMethodBody": "填寫聯絡資料、貼上詢價摘要並上傳設計檔，適合同時留下完整需求與附件的客戶。",
     "footer": "Phoenixes｜為飲料店準備更完整的包裝與門市印刷解決方案。"
   },
   "pricing": {
@@ -212,6 +218,58 @@
       "unit": "捲",
       "imageUrl": "https://www.phoenixes.com.tw/images/538684?stamp=1760162832",
       "imageNote": "Phoenixes 官網暫用示意圖",
+      "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
+      "specOptions": [
+        "基準規格",
+        "規格選項 1",
+        "規格選項 2",
+        "規格選項 3",
+        "規格選項 4",
+        "規格選項 5"
+      ],
+      "quantityOptions": [
+        6,
+        12,
+        18
+      ]
+    },
+    {
+      "id": "film-layout-1",
+      "name": "客製化少量印刷封膜（版面測試 1）",
+      "description": "僅供 10 品項排列測試，沿用封膜既有資料，非正式新增商品。",
+      "baseSpec": "130 × 500M",
+      "baseQuantity": "基本量 6 捲",
+      "price": 3500,
+      "unit": "捲",
+      "imageUrl": "https://www.phoenixes.com.tw/images/538684?stamp=1760162832",
+      "imageNote": "版面測試品項，非正式新增商品",
+      "templateUrl": "",
+      "templateLabel": "下載此品項刀模",
+      "specOptions": [
+        "基準規格",
+        "規格選項 1",
+        "規格選項 2",
+        "規格選項 3",
+        "規格選項 4",
+        "規格選項 5"
+      ],
+      "quantityOptions": [
+        6,
+        12,
+        18
+      ]
+    },
+    {
+      "id": "film-layout-2",
+      "name": "客製化少量印刷封膜（版面測試 2）",
+      "description": "僅供 10 品項排列測試，沿用封膜既有資料，非正式新增商品。",
+      "baseSpec": "130 × 500M",
+      "baseQuantity": "基本量 6 捲",
+      "price": 3500,
+      "unit": "捲",
+      "imageUrl": "https://www.phoenixes.com.tw/images/538684?stamp=1760162832",
+      "imageNote": "版面測試品項，非正式新增商品",
       "templateUrl": "",
       "templateLabel": "下載此品項刀模",
       "specOptions": [
