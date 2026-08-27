@@ -1,0 +1,30 @@
+{
+  "site": {
+    "title": "Phoenixes｜飲料店印刷包套詢價",
+    "logo": "phoenixes-logo.svg",
+    "homeUrl": "https://www.phoenixes.com.tw/",
+    "lineUrl": "https://line.me/R/ti/p/@phoenixes",
+    "eyebrow": "PHOENIXES × 飲料店平面印刷",
+    "heroTitle": "把封膜、文宣與門店展示，一次整理成詢價方案。",
+    "heroBody": "先選擇需要的品項與數量，快速整理成詢價需求；正式規格、交期與報價由 Phoenixes 團隊確認。",
+    "notice": "金額為參考試算：各品項對客可見售價 × 所選數量；另加 5% 稅金及暫定運費 NT$1,000。",
+    "footer": "Phoenixes｜為飲料店準備更完整的包裝與門市印刷解決方案。"
+  },
+  "pricing": {"taxRate": 0.05, "shipping": 1000, "currency": "NT$"},
+  "products": [
+    {"id":"stand","name":"A 型注水展架","description":"門市活動與主視覺陳列","baseSpec":"文件未列其他規格","baseQuantity":"1 組","price":792,"unit":"組","imageUrl":"https://www.phoenixes.com.tw/images/670808?stamp=1777964044","imageNote":"Phoenixes 官網暫用示意圖","templateUrl":"","specOptions":["基準規格"],"quantityOptions":[1,2,3,4,5,6]},
+    {"id":"fabric","name":"熱昇華珍珠絨布","description":"櫃檯與門市活動布條","baseSpec":"180 × 45 cm","baseQuantity":"1 張","price":198,"unit":"張","imageUrl":"https://www.phoenixes.com.tw/images/625687?stamp=1772687536","imageNote":"Phoenixes 官網暫用示意圖","templateUrl":"","specOptions":["基準規格"],"quantityOptions":[1,2,3,4,5,6]},
+    {"id":"sign","name":"雙面立牌 A","description":"吧台、桌面與商品資訊提示","baseSpec":"上霧膜、雙面","baseQuantity":"10 個","price":323,"unit":"組","imageUrl":"https://www.phoenixes.com.tw/images/538684?stamp=1760162832","imageNote":"Phoenixes 官網暫用示意圖","templateUrl":"","specOptions":["基準規格"],"quantityOptions":[1,2,3,4,5,6]},
+    {"id":"fold","name":"O2K 包 2 摺","description":"飲品介紹與門市宣傳折頁","baseSpec":"銅西卡 200g、雙面上亮","baseQuantity":"10 張","price":481,"unit":"組","imageUrl":"https://www.phoenixes.com.tw/images/538524?stamp=1760018957","imageNote":"Phoenixes 官網暫用示意圖","templateUrl":"","specOptions":["基準規格"],"quantityOptions":[1,2,3,4,5,6]},
+    {"id":"flyer","name":"銅版紙文宣","description":"大量派發與活動傳單","baseSpec":"A4（G8K）、80g、單面","baseQuantity":"8,000 張","price":2006,"unit":"批","imageUrl":"https://www.phoenixes.com.tw/images/554633?stamp=1762827958","imageNote":"Phoenixes 官網暫用示意圖","templateUrl":"","specOptions":["基準規格"],"quantityOptions":[1,2,3,4,5,6]},
+    {"id":"sticker","name":"透明貼紙","description":"杯身、封口與品牌識別貼紙","baseSpec":"方形 B1010、彩印＋無白墨","baseQuantity":"2,000 張","price":189,"unit":"批","imageUrl":"https://www.phoenixes.com.tw/images/522491?stamp=1757401339","imageNote":"Phoenixes 官網暫用示意圖","templateUrl":"","specOptions":["基準規格"],"quantityOptions":[1,2,3,4,5,6]},
+    {"id":"ivory","name":"象牙卡","description":"集點、兌換與品牌小卡","baseSpec":"300μm±20μm、雙面、1 款、1 模","baseQuantity":"2 盒","price":84,"unit":"盒","imageUrl":"https://www.phoenixes.com.tw/images/538684?stamp=1760162832","imageNote":"Phoenixes 官網暫用示意圖","templateUrl":"","specOptions":["基準規格"],"quantityOptions":[1,2,3,4,5,6]},
+    {"id":"film","name":"客製化少量印刷封膜","description":"飲料杯封膜的客製化印刷方案","baseSpec":"130 × 350M（待最終確認）","baseQuantity":"基本量 6 捲","price":3500,"unit":"捲","imageUrl":"https://www.phoenixes.com.tw/images/538684?stamp=1760162832","imageNote":"Phoenixes 官網暫用示意圖","templateUrl":"","specOptions":["基準規格"],"quantityOptions":[6,7,8,9,10,11,12]}
+  ],
+  "terms": [
+    {"title":"詢價與正式報價","body":"本頁內容為需求整理及參考試算。正式品項、規格、金額、交期與製作安排，均以 Phoenixes 確認後之正式報價為準。"},
+    {"title":"客戶提供檔案","body":"客戶應確認文字、尺寸、出血、安全範圍、圖像使用權及內容正確性。未完成確認的檔案不應進入製作流程。"},
+    {"title":"顏色、交期與運輸","body":"螢幕顯示與實際印刷可能存在色差；交期以確稿後之正式安排為準。運輸、簽收與瑕疵處理依 Phoenixes 最終條款與實際製作情況辦理。"},
+    {"title":"客製化製作","body":"客製化印品於確認並進入製作後，修改、取消或退換之限制，依正式條款及實際生產狀態判定。"}
+  ]
+}
