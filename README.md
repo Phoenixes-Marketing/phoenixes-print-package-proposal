@@ -33,7 +33,7 @@
 ## 目前待辦
 
 - 補齊各品項正式規格、圖片及 Google Drive 刀模網址。
-- 建立詢價表單、客戶聯絡資料與設計檔上傳流程。
-- 補入正式 Email 與 Phoenixes 核准版印刷條款。
+- 由非管理者帳號完成一次詢價表單、通知、回覆試算表與附件權限的端到端測試。
+- 補入 Phoenixes 核准版印刷條款。
 
 私人 repo 協作者請閱讀 `phoenixes-print-package-site` 的 README、`PROJECT_STATUS_AND_HANDOFF.md` 與 `docs/ONE_CLICK_UPDATE.md`，其中包含 Excel 一鍵更新、下載及跨電腦執行方式。
